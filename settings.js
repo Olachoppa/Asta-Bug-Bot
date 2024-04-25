@@ -3,33 +3,33 @@
 //Instagram:
 //Telegram: t.me/Demzzy
 //GitHub: @bbn-hub
-//WhatsApp: +2349091878122
+//WhatsApp: +2347048641826 
 //want more free bot scripts? subscribe to my youtube channel: https://youtube.com/@DGXeon
 
 const fs = require('fs')
 const chalk = require('chalk')
 
 //contact details
-global.ownernomer = "2349091878122"
+global.ownernomer = "2347048641826"
 global.ownername = "🦄Dream Guy Demzzy"
 global.ytname = "YT: Demzzy"
 global.socialm = "GitHub: bbn-hub"
 global.location = "Nigeria, Lagos, Mushin"
 
-global.ownernumber = 2349091878122'  //creator number
+global.ownernumber = 2347048641826'  //creator number
 global.ownername = '🦄Dream Guy Demzzy' //owner name
 global.botname = 'Demzzy bug-bot' //name of the bot
 
 //sticker details
 global.packname = 'Demzzy great'
-global.author = '🦄Demzzy\n\nContact: +2349091878122'
+global.author = '🦄Demzzy\n\nContact: +2347048641826'
 
 //console view/theme
 global.themeemoji = '🪀'
 global.wm = "Demzzy Bot Inc."
 
 //theme link
-global.link = 'https://wa.me/2349091878122'
+global.link = 'https://wa.me/2347048641826'
 
 //custom prefix
 global.prefa = ['','!','.','#','&']
