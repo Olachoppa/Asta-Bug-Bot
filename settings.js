@@ -1,35 +1,35 @@
-//base by DGXeon (Xeon Bot Inc.)
-//YouTube: @DGXeon
-//Instagram: unicorn_xeon13
-//Telegram: t.me/xeonbotinc
-//GitHub: @DGXeon
-//WhatsApp: +916909137213
-//want more free bot scripts? subscribe to my youtube channel: https://youtube.com/@DGXeon
+//base by Demzzy (Demzzy Bot Inc.)
+//YouTube: @Demzzy
+//Instagram: B.D.J
+//Telegram: t.me/Demzzy
+//GitHub: @Demzzy
+//WhatsApp: +2347048641826
+//want more free bot scripts? subscriobe to my youtube channel: https://youtube.com/@DGXeon
 
 const fs = require('fs')
 const chalk = require('chalk')
 
 //contact details
-global.ownernomer = "916909137213"
-global.ownername = "🦄Dream Guy Xeon"
-global.ytname = "YT: Xeon"
-global.socialm = "GitHub: DGXeon"
+global.ownernomer = "2347048641826"
+global.ownername = "🦄Dream Guy Demzzy"
+global.ytname = "YT: Demzzy"
+global.socialm = "GitHub: bbn-hub"
 global.location = "India, Mizoram, Aizawl"
 
-global.ownernumber = '916909137213'  //creator number
-global.ownername = '🦄Dream Guy Xeon' //owner name
-global.botname = 'ˣᵉᵒⁿ ᵇᵘᵍ ᵇᵒᵗ' //name of the bot
+global.ownernumber = 2347048641826'  //creator number
+global.ownername = '🦄Dream Guy Demzzy' //owner name
+global.botname = 'Demzzybugbot_md' //name of the bot
 
 //sticker details
 global.packname = 'Sticker By'
-global.author = '🦄DGXeon\n\nContact: +916909137213'
+global.author = '🦄Demzzy\n\nContact: +2347048641826'
 
 //console view/theme
 global.themeemoji = '🪀'
-global.wm = "Xeon Bot Inc."
+global.wm = "Demzzy Bot Inc."
 
 //theme link
-global.link = 'https://whatsapp.com/channel/0029VaG9VfPKWEKk1rxTQD20'
+global.link = 'https://chat.whatsapp.com/HIecHYhaaXSErAB9l5VlWd'
 
 //custom prefix
 global.prefa = ['','!','.','#','&']
